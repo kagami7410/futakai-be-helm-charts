@@ -1,5 +1,0 @@
-app:
-  name: better-backend
-  image:
-    name: docker.io/sujan7410/better_backend
-    tag: v1.0.0
