@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: {{ .Values.app.name}}
-        image: {{ .Values.app.image.name}}:{{ .Values.app.image.tag}}
+        image: docker.io/sujan7410/better_backend
         ports:
         - containerPort: 9080
