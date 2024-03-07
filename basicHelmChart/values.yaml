@@ -1,8 +1,8 @@
 app:
-  name: better-backend-test
+  name: futakai-BE
   image:
-    name: docker.io/sujan7410/better_backend
+    name: docker.io/sujan7410/futakai-be
     tag: v1.0.0
 
 namespace:
-  name: development-env-test
+  name: futakai-BE
