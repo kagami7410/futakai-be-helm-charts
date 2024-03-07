@@ -1,8 +1,8 @@
 app:
-  name: futakai-BE
+  name: futakai-be
   image:
     name: docker.io/sujan7410/futakai-be
     tag: v1.0.0
 
 namespace:
-  name: futakai-BE
+  name: futakai-be
