@@ -2,7 +2,6 @@ app:
   name: futakai-be
   image:
     name: docker.io/sujan7410/futakai-be
-    tag: v1.0.0
-
+    tag: test1
 namespace:
   name: futakai-be
